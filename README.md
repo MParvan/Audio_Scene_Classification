@@ -1,6 +1,6 @@
 # Audio_Scene_Classification
 
-This repository provides an implementation of [this paper](https://arxiv.org/pdf/1904.03543).\
+This repository provides an implementation of [this paper](https://arxiv.org/pdf/1904.03543).
 
 In this paper, sound classification is performed using deep learning methods. The database used is the LITIS-rouen collection which contains 3026 data from 19 different environments (classes), each of which has a length of 30 seconds. The sampling frequency is 22050 Hz. Considering 3026 data, as defined in the database, 2419 were used as training data and the rest as test data.\
 \
